@@ -262,7 +262,7 @@ READ_LOCK_CAP      = TRUE
 READ_LOCK_STATUS   = TRUE
 
   FILE RAW = b3890e02-c46b-4970-9536-57787a9e06c7 { # PcdEdkiiSystemFirmwareFileGuid
-    FD = Armada_EFI
+    FD = Armada70x0Db_EFI
   }
 
   FILE RAW = ce57b167-b0e4-41e8-a897-5f4feb781d40 { # gEdkiiSystemFmpCapsuleDriverFvFileGuid
